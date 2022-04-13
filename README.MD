@@ -3,4 +3,5 @@
 
 - springboot的启动
   
-  [第一章:springboot启动都做了什么](https://github.com/Zjalon/OneObject/start)
+  [第一章:springboot启动都做了什么](https://github.com/Zjalon/OneObject/tree/main/start)
+  > springboot 2.6.6
